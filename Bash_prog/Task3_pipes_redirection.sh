@@ -62,4 +62,17 @@ echo "Task 3 Done"
 ┌──(kali㉿kali)-[~]
 └─$ .Task3_pipes_redirection.sh
 .Task3_pipes_redirection.sh: command not found 
+─(kali㉿kali)-[~]
+└─$ mkdir Bash_prog 
+                                                                                        
+┌──(kali㉿kali)-[~]
+└─$ cp  Task3_pipes_redirection.sh Bash_prog
+                                                                                        
+┌──(kali㉿kali)-[~]
+└─$ cd Bash_prog                              
+                                                                                        
+┌──(kali㉿kali)-[~/Bash_prog]
+└─$ ls      
+ Task3_pipes_redirection.sh
+
 
