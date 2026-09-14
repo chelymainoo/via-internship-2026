@@ -84,3 +84,18 @@ echo "Cleanup done"
 echo "All checks passed!"
 exit 0
 
+─(kali㉿kali)-[~]
+└─$ mkdir Bash_prog 
+                                                                                        
+┌──(kali㉿kali)-[~]
+└─$ cp Task4_return_codes_error_handling.sh
+                                                                                        
+┌──(kali㉿kali)-[~]
+└─$ cd Bash_prog                              
+                                                                                        
+┌──(kali㉿kali)-[~/Bash_prog]
+└─$ ls      
+Task4_return_codes_error_handling.sh
+
+
+
