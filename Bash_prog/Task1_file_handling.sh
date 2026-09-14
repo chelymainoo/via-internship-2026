@@ -136,4 +136,18 @@ else
 fi
 
 ls -l $TARGET_DIR
+─(kali㉿kali)-[~]
+└─$ mkdir Bash_prog 
+                                                                                        
+┌──(kali㉿kali)-[~]
+└─$ cp Task1_file_handling.sh Bash_prog
+                                                                                        
+┌──(kali㉿kali)-[~]
+└─$ cd Bash_prog                              
+                                                                                        
+┌──(kali㉿kali)-[~/Bash_prog]
+└─$ ls      
+Task1_file_handling.sh
+                                                                                        
+
 
