@@ -88,7 +88,7 @@ exit 0
 └─$ mkdir Bash_prog 
                                                                                         
 ┌──(kali㉿kali)-[~]
-└─$ cp Task4_return_codes_error_handling.sh
+└─$ cp Task4_return_codes_error_handling.sh Bash_prog
                                                                                         
 ┌──(kali㉿kali)-[~]
 └─$ cd Bash_prog                              
