@@ -21,7 +21,7 @@ touch: cannot touch 'Bash_prog/Task2_permissions_sudo.sh': No such file or direc
 #!/usr/bin/env bash
 # -----------------------------------------------------------------------------
 # @title       Task2_permissions_sudo.sh
-# @author      Manu Michelle Akosua Yeboah
+# @author      Manu Michelle Akyere Yeboah
 # @index       7359523
 # @school      University of Ghana
 # @description Inspects file permissions in symbolic and numeric formats, applies
