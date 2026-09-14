@@ -66,4 +66,18 @@ echo "[+] All backups secured - Ready for IR team"
 ┌──(kali㉿kali)-[~]
 └─$ .Task5_automated_log_backup.sh  
 .Task5_automated_log_backup.sh: command not found
+                                                                                        
+┌──(kali㉿kali)-[~]
+└─$ mkdir Bashprog 
+                                                                                         
+┌──(kali㉿kali)-[~]
+└─$ cp Task5_automated_log_backup.sh Bashprog
+                                                                                         
+┌──(kali㉿kali)-[~]
+└─$ cd Bashprog                              
+                                                                                         
+┌──(kali㉿kali)-[~/Bashprog]
+└─$ ls      
+Task5_automated_log_backup.sh
+
 
