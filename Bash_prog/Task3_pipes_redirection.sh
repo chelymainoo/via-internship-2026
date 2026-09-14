@@ -11,8 +11,8 @@ rm: cannot remove 'Task3_pipes_redirection.sh': No such file or directory
 ┌──(kali㉿kali)-[~]
 └─$ cat Task3_pipes_redirection.sh
 #!/bin/bash
-# Author: Manu Michelle Akosua Yeboah
-# Index: 7335923
+# Author: Manu Michelle Akyere Yeboah
+# Index: 7359523
 # Task 3 - Pipes and Redirection
 
 # Step 1: Create log file
