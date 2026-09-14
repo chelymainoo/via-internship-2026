@@ -24,7 +24,7 @@ cat: Task4_return_codes_erroe_handlinh.sh: No such file or directory
 ┌──(kali㉿kali)-[~]
 └─$ cat Task4_return_codes_error_handling.sh
 #!/bin/bash
-# Author: Manu Michelle Akosua Yeboah
+# Author: Manu Michelle Akyere Yeboah
 # Index: 7359523
 # Task 4 - Return Codes and Error Handling
 
