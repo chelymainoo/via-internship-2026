@@ -114,3 +114,16 @@ display_permissions "$FILE_PATH"
 ┌──(kali㉿kali)-[~]
 └─$ touch test.txt                 
 
+─(kali㉿kali)-[~]
+└─$ mkdir Bash_prog 
+                                                                                        
+┌──(kali㉿kali)-[~]
+└─$ cp Task2_permissions_sudo.sh Bash_prog
+                                                                                        
+┌──(kali㉿kali)-[~]
+└─$ cd Bash_prog                              
+                                                                                        
+┌──(kali㉿kali)-[~/Bash_prog]
+└─$ ls      
+Task2_permissions_sudo.sh
+                                                                                        
